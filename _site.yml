@@ -1,0 +1,30 @@
+name: "Zulma M. Cucunubá"
+output_dir: "."
+navbar:
+  title: "Zulma M. Cucunubá"
+  left:
+    - text: "Research"
+      href: research.html
+    - text: "Speaking"
+      href: talks.html
+    - text: "Teaching"
+      href: teaching.html
+    - text: "Outreach"
+      href: outreach.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: ai-google-scholar ai-lg
+      href: https://scholar.google.com/citations?user=YxVl1nUAAAAJ&hl=en
+    - icon: ai-cv ai-lg
+      href: ./files/ZulmaCucunuba_CV.pdf
+    - icon: fa-github fa-lg
+      href: http://github.com/zmcucunuba
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/ZulmaCucunuba
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/zulma-m-cucunub%C3%A1-4a6a50b7/
+output:
+  html_document:
+    theme: united
+    css: 'styles.css'
