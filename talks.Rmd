@@ -6,8 +6,11 @@ pagetitle: "Zulma M. Cucunubá MD, PhD"
 <link rel="stylesheet" href="styles.css" type="text/css">
 <link rel="stylesheet" href="academicicons/css/academicons.min.css"/>
 
-# ACADEMIC TALKS
 
+<br />
+
+# ACADEMIC TALKS
+<br />
 ## COVID-19
 
 
@@ -19,7 +22,7 @@ pagetitle: "Zulma M. Cucunubá MD, PhD"
 
 2020 - [Rebrotes y reinfección por SARS-COV-2_COVID-19. ASOCIACIÓN COLOMBIANA DE INFECTOLOGÍA ACIN](https://www.youtube.com/watch?v=szrexzt5tNg&ab_channel=ASOCIACI%C3%93NCOLOMBIANADEINFECTOLOG%C3%8DAACIN)
 
-
+<br />
 
 ## OTHER DISEASES
 

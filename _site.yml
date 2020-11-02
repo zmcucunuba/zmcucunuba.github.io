@@ -3,18 +3,14 @@ output_dir: "."
 navbar:
   title: "Zulma M. Cucunubá MD., PhD"
   left:
-    - text: "Home"
-      href: index.html
-    - text: "Research"
-      href: research.html
-    - text: "Publications"
-      href: publications.html
-    - text: "Talks"
+    - text: "Research & Publications"
+      href: res_publications.html
+    - text: "Academic Talks"
       href: talks.html
-    - text: "Teaching"
+    - text: "Teaching Materials"
       href: teaching.html
     - text: "Media"
-      href: outreach.html
+      href: media.html
 
   right:
     - icon: fa-envelope fa-lg
