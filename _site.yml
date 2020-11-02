@@ -27,7 +27,9 @@ navbar:
       href: https://twitter.com/ZulmaCucunuba
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/zulma-m-cucunub%C3%A1-4a6a50b7/
-output:
-  html_document:
-    theme: cosmo
-    hihghlight: tango
+#output:
+ # html_document:
+ #   theme: cerulean
+  #  hihghlight: tango
+output: rmdformats::readthedown
+
