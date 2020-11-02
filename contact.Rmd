@@ -5,11 +5,16 @@
 <link rel="stylesheet" href="academicicons/css/academicons.min.css"/>
 
 <br />
+
 # Contact me
 
-I'd love to hear from you, so feel free to reach out.
 
-<img src="images/CC_CancerInstitute_c.jpg" style="width:25%; margin-right: 50px" align="right">
+
+<img src="images/contact.jpg" style="width:100%; margin-right: 50px">
+
+<br />
+
+I'd love to hear from you, so feel free to send me a message.
 
 [zcucunuba@gmail.com](zcucunuba@gmail.com)
 
