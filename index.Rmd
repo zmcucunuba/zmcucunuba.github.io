@@ -23,9 +23,9 @@ I hold a Research Fellow position in the [MRC Centre for Infectious Disease Epid
 
 My research focuses on using statistic and mathematical methods to understand the determinants of the spread of infection diseases and the impact of control strategies, with a particular focus in Latin America. 
 
-Over the past 10 months my reseach has heavily focused on COVID-19, particualrly in Latin America.
+Over the past 10 months my research has heavily focused on COVID-19, particularly in Latin America.
 
-Over the past 10 years, I have worked on vector bone diseases including Chagas disease, Zika, Chikungunya and Malaria. Over the oast three years I have been working on emerging infections, epidemic response and vaccine preventable diseases.
+Over the past 10 years, I have worked on vector bone diseases including Chagas disease, Zika, Chikungunya and Malaria. Over the past three years I have been working on emerging infections, epidemic response and vaccine preventable diseases.
 
 I am an avid R enthusiast for epidemic analytics and a member of the [R Epidemics Consortium (RECON)](https://www.repidemicsconsortium.org/people/). 
 
