@@ -2,6 +2,7 @@ name: "Zulma M. Cucunubá MD., PhD."
 output_dir: "."
 navbar:
   title: "Zulma M. Cucunubá MD., PhD"
+  #subtitle: "Infectious Disease Epidemiologist"
   left:
     - text: "Research \n (Investigación)"
       href: research.html
@@ -27,6 +28,6 @@ navbar:
       href: https://www.linkedin.com/in/zulma-m-cucunub%C3%A1-4a6a50b7/
 output:
   html_document:
-    theme: cosmo
+    theme: yeti
     css: 'styles.css'
     hihghlight: textmate
