@@ -3,6 +3,8 @@ output_dir: "."
 navbar:
   title: "Zulma M. Cucunubá MD., PhD"
   left:
+    - text: "Home"
+      href: index.html
     - text: "Research & Publications"
       href: res_publications.html
     - text: "Academic Talks"
@@ -15,8 +17,8 @@ navbar:
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
-    - icon: ai-google-scholar ai-lg
-      href: https://scholar.google.com/citations?user=YxVl1nUAAAAJ&hl=en
+#    - icon: ai-google-scholar ai-lg
+#      href: https://scholar.google.com/citations?user=YxVl1nUAAAAJ&hl=en
     - icon: ai-cv ai-lg
       href: ./files/ZulmaCucunuba_CV.pdf
     - icon: fa-github fa-lg
