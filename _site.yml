@@ -31,4 +31,6 @@ output:
   html_document:
     theme: flatly
     hihghlight: tango
+    include:
+      after_body: footer.html
 

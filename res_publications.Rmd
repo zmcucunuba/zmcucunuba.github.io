@@ -14,7 +14,7 @@ pagetitle: "Zulma M. Cucunubá MD, PhD"
 
 <br />
 
-# Ongoing Projects
+## Ongoing Projects
 
 - [DICTUM Platform: Decreasing the Impact of Trypanosoma cruzi Impact Thought Modelling](https://www.londonntd.org/news/decreasing-the-impact-of-chagas-disease-through-modelling)
 
@@ -23,7 +23,7 @@ pagetitle: "Zulma M. Cucunubá MD, PhD"
 <br />
 <br />
 
-# Selected Publications
+## Selected Publications
 
 [Google Scholar profile](https://scholar.google.com/citations?user=YxVl1nUAAAAJ&hl=en)
 
