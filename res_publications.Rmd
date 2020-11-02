@@ -6,20 +6,24 @@ pagetitle: "Zulma M. Cucunubá MD, PhD"
 <link rel="stylesheet" href="styles.css" type="text/css">
 <link rel="stylesheet" href="academicicons/css/academicons.min.css"/>
 
+# Research and Publications
+<br />
+
 <img src="images/publications.jpg" style="width:100%; border:0px solid">
 
 
 <br />
 
-## ONGOING PROJECTS
+# Ongoing Projects
 
 - [DICTUM Platform: Decreasing the Impact of Trypanosoma cruzi Impact Thought Modelling](https://www.londonntd.org/news/decreasing-the-impact-of-chagas-disease-through-modelling)
 
 - COVID-19 analytics in Latin America
 
 <br />
+<br />
 
-## SELECTED PUBLICATIONS
+# Selected Publications
 
 [Google Scholar profile](https://scholar.google.com/citations?user=YxVl1nUAAAAJ&hl=en)
 

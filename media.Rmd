@@ -8,6 +8,14 @@ pagetitle: "Zulma M. Cucunubá MD, PhD"
 
 <br />
 
+# Media Appearances
+
+<br />
+<img src="images/media.png" style="width:100%; border:0px solid">
+
+<br />
+<br />
+
 ## Invited Podcast episodes
 
 2020. [*El Hilo* COVID-19 La encrucijada de América Latina](shows.acast.com/elhilo/episodes/coronavirus-encrucijada)(Spanish) 
