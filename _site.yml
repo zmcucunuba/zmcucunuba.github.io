@@ -29,6 +29,6 @@ navbar:
       href: https://www.linkedin.com/in/zulma-m-cucunub%C3%A1-4a6a50b7/
 output:
   html_document:
-    theme: united
+    theme: readable
     hihghlight: textmate
 css: 'styles.css'
