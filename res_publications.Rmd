@@ -9,7 +9,7 @@ pagetitle: "Zulma M. Cucunubá MD, PhD"
 # Research and Publications
 <br />
 
-<img src="images/research.png" style="width:100%; border:0px solid">
+<!-- <img src="images/research.png" style="width:100%; border:0px solid"> -->
 
 
 <br />
