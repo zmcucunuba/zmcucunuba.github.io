@@ -51,6 +51,17 @@ Feb 2020 ["La pregunta es si estamos preparados para la llegada del virus": Zulm
 2020 - [Sígale la pista a estos hilos de tecnología,  innovación y ciencia](https://impactotic.co/sigales-la-pita-a-estos-hilos-recomendados-de-tecnologia-innovacion-y-ciencia/)
 
 
+<br />
+
+
+
+```{r tweet, echo=FALSE}
+## Twitter  
+# library(tweetrmd)
+# tweetrmd::
+# include_tweet("https://twitter.com/dsquintana/status/1275705042385940480")
+```
+
 
 
 <br />
