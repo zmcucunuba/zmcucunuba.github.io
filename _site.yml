@@ -3,14 +3,15 @@ output_dir: "."
 navbar:
   title: "Zulma M. Cucunubá"
   left:
-    - text: "Research/Investigación"
+    - text: "Research \n (Investigación)"
       href: research.html
-    - text: "Talks/Conferencias"
+    - text: "Talks \n (Conferencias)"
       href: talks.html
-    - text: "Teaching/Enseñanza"
+    - text: "Teaching \n (Enseñanza)"
       href: teaching.html
-    - text: "Media/Medios"
+    - text: "Media \n (Medios)"
       href: outreach.html
+
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
@@ -26,6 +27,6 @@ navbar:
       href: https://www.linkedin.com/in/zulma-m-cucunub%C3%A1-4a6a50b7/
 output:
   html_document:
-    theme: cerulean
+    theme: cosmo
     css: 'styles.css'
     hihghlight: textmate

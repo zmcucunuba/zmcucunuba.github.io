@@ -6,7 +6,7 @@ pagetitle: "Zulma M. Cucunubá"
 <link rel="stylesheet" href="styles.css" type="text/css">
 <link rel="stylesheet" href="academicicons/css/academicons.min.css"/>
 
-<img src="images/ZCucunuba.jpeg" style="width:25%; border:5px solid; margin-right: 20px" align="left">
+<img src="images/ZCucunuba.jpeg" style="width:50%; border:5px solid; margin-right: 20px" align="right">
 
 I am a Research Fellow in the [MRC Centre for Infectious Disease Epidemiology at Imperial College London](https://www.imperial.ac.uk/people/zulma.cucunuba) in the UK. I also hold an academic appointment as Assistant Professor of Infectious Disease Epidemiology at Pontificia Universidad Javeriana in Colombia  [Department of Clinical Epidemiology.
 
