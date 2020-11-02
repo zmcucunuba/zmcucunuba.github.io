@@ -30,7 +30,7 @@ navbar:
 output:
   html_document:
     theme: flatly
-    hihghlight: tango
+    hihghlight: github
     include:
       after_body: footer.html
 

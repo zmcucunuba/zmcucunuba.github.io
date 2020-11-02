@@ -18,7 +18,11 @@ pagetitle: "Zulma M. Cucunubá MD, PhD"
 
 - [DICTUM Platform: Decreasing the Impact of Trypanosoma cruzi Impact Thought Modelling](https://www.londonntd.org/news/decreasing-the-impact-of-chagas-disease-through-modelling)
 
-- COVID-19 analytics in Latin America
+
+- [The Global Burden of Chikungunya virus](https://gtr.ukri.org/projects?ref=MR%2FR024855%2F1)
+
+
+- Imperial College COVID-19 Response Team
 
 <br />
 <br />
@@ -27,6 +31,7 @@ pagetitle: "Zulma M. Cucunubá MD, PhD"
 
 [Google Scholar profile](https://scholar.google.com/citations?user=YxVl1nUAAAAJ&hl=en)
 
+[ORCID](https://orcid.org/0000-0002-8165-3198)
 
 Biggerstaff M, Cowling BJ, Cucunubá ZM, Dinh L, Ferguson NM, et al., for the WHO COVID-19 Modelling Parameters Group. Early insights from statistical and mathematical modeling of key epidemiologic parameters of COVID-19. Emerg Infect Dis. 2020 https://doi.org/10.3201/eid2611.201074 
 
