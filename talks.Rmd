@@ -6,29 +6,29 @@ pagetitle: "Zulma M. Cucunubá MD, PhD"
 <link rel="stylesheet" href="styles.css" type="text/css">
 <link rel="stylesheet" href="academicicons/css/academicons.min.css"/>
 
+<br />
 
 # Academic Talks
-<br />
-<!-- <img src="images/talks2.png" style="width:100%; border:0px solid"> -->
+<!-- !-- <img src="images/talks2.png" style="width:100%; border:0px solid"> --> 
 
 <br />
 <br />
 
 ## COVID-19
 
-2020 - [Sistemas de Salud durante la pandemia, retos y desafíos. Fundación El Nogal](https://multimedia.fundacionelnogal.org.co/es/videos?idv=27983)
+2020 - Fundación El Nogal [Sistemas de Salud durante la pandemia, retos y desafíos. ](https://multimedia.fundacionelnogal.org.co/es/videos?idv=27983)
 
-2020 - [COVID-19 en América Latina: Consideraciones para modelar y entender el impacto directo en salud, Universidad de los Andes](https://www.youtube.com/watch?v=TwR0lQuAA8w&t=6s&ab_channel=DepartamentodeCienciasBiol%C3%B3gicasUniAndes)
+2020 - Universidad de los Andes. [COVID-19 en América Latina: Consideraciones para modelar y entender el impacto directo en salud](https://www.youtube.com/watch?v=TwR0lQuAA8w&t=6s&ab_channel=DepartamentodeCienciasBiol%C3%B3gicasUniAndes)
 
-2020 - [Modelamiento matemático COVID-19. Universidad Javeriana](https://www.youtube.com/watch?v=8JH7YzG-gTw&ab_channel=ElEspectador)
+2020 - Universidad Javeriana [Modelamiento matemático COVID-19](https://www.youtube.com/watch?v=8JH7YzG-gTw&ab_channel=ElEspectador)
 
-2020 - [Rebrotes y reinfección por SARS-COV-2_COVID-19. ASOCIACIÓN COLOMBIANA DE INFECTOLOGÍA ACIN](https://www.youtube.com/watch?v=szrexzt5tNg&ab_channel=ASOCIACI%C3%93NCOLOMBIANADEINFECTOLOG%C3%8DAACIN)
+2020 - ASOCIACIÓN COLOMBIANA DE INFECTOLOGÍA ACIN [Rebrotes y reinfección por SARS-COV-2_COVID-19. ](https://www.youtube.com/watch?v=szrexzt5tNg&ab_channel=ASOCIACI%C3%93NCOLOMBIANADEINFECTOLOG%C3%8DAACIN)
 
 <br />
 
 ## Other diseases 
 
-2020 [ASTMH Annual Meeting Measuring Progress and Challenges for Chagas Disease Control in the Americas: *The DICTUM (Decreasing the Impact of Chagas disease Through Modelling) platform: development, advances and applications to estimate changes in Chagas disease incidence*](https://www.abstractsonline.com/pp8/#!/9181/session/136)
+2020 ASTMH Annual Meeting Measuring Progress and Challenges for Chagas Disease Control in the Americas. [The DICTUM (Decreasing the Impact of Chagas disease Through Modelling) platform: development, advances and applications to estimate changes in Chagas disease incidence](https://www.abstractsonline.com/pp8/#!/9181/session/136)
 
 
 
