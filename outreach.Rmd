@@ -1,22 +1,28 @@
 ---
 title: " "
 pagetitle: "Zulma M. Cucunubá MD, PhD"
-
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 <link rel="stylesheet" href="academicicons/css/academicons.min.css"/>
 
+<br />
+
 ## Invited Podcast episodes
 
-2020. *El Hilo* COVID-19 La encrucijada de América Latina (Spanish) [El hilo - ](shows.acast.com/elhilo/episodes/coronavirus-encrucijada)
+2020. [*El Hilo* COVID-19 La encrucijada de América Latina](shows.acast.com/elhilo/episodes/coronavirus-encrucijada)(Spanish) 
 
-
+<br />
 ## TV Interviews
 
-2020- *Semana En Vivo* El reto: proteger la vida o salvar la economía del Covid-19 | Coronavirus Colombia (Spanish) [Semana Interview](https://www.youtube.com/watch?v=wlyD2IZXL70&ab_channel=Mar%C3%ADaJimenaDuz%C3%A1nSV) 
+2020- [*Semana En Vivo* El reto: proteger la vida o salvar la economía del Covid-19 | Coronavirus Colombia](https://www.youtube.com/watch?v=wlyD2IZXL70&ab_channel=Mar%C3%ADaJimenaDuz%C3%A1nSV) (Spanish) 
+
+<br />
+## Outreach 
+2020 - [Viaje a la cabeza de una epidemióloga Fundación Gabo](https://www.youtube.com/watch?v=QtVXu6GrOEk&ab_channel=Fundaci%C3%B3nGabo)(Spanish) 
 
 
+2020 - [Medir y Gestionar la pandemia a largo plazo con Jorge Galindo - ESADE ](https://www.youtube.com/watch?v=CKddpHgf5fU&feature=emb_logo&ab_channel=Esade) (Spanish)
 
 
 

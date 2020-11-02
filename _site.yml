@@ -7,6 +7,8 @@ navbar:
       href: index.html
     - text: "Research"
       href: research.html
+    - text: "Publications"
+      href: publications.html
     - text: "Talks"
       href: talks.html
     - text: "Teaching"
@@ -31,12 +33,4 @@ output:
   html_document:
     theme: flatly
     hihghlight: tango
-#output: rmdformats::readthedown
-#output:
-#  rmarkdown::html_document:
-#    theme: lumen
-    
-#output:
-#  prettydoc::html_pretty:
-#    theme: leonids
 
