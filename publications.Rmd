@@ -6,6 +6,9 @@ pagetitle: "Zulma M. Cucunubá MD, PhD"
 <link rel="stylesheet" href="styles.css" type="text/css">
 <link rel="stylesheet" href="academicicons/css/academicons.min.css"/>
 
+[Google Scholar profile] (https://scholar.google.com/citations?user=YxVl1nUAAAAJ&hl=en)
+
+
 ### Selected publications
 
 Biggerstaff M, Cowling BJ, Cucunubá ZM, Dinh L, Ferguson NM, et al., for the WHO COVID-19 Modelling Parameters Group. Early insights from statistical and mathematical modeling of key epidemiologic parameters of COVID-19. Emerg Infect Dis. 2020 https://doi.org/10.3201/eid2611.201074 
@@ -34,4 +37,5 @@ Cucunuba ZM, Nouvellet P, Conteh L, et al., Modelling historical changes in the 
 
 
 Ferguson NM, Cucunubá ZM, Dorigati I, et al. Countering the Zika epidemic in Latin America. Science, 207 DOI: 0.26/science.aag029
+
 

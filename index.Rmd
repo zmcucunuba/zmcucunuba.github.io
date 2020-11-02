@@ -30,7 +30,7 @@ Over the past 10 years, I have worked on vector bone diseases including Chagas d
 I am an avid R enthusiast for epidemic analytics and a member of the [R Epidemics Consortium (RECON)](https://www.repidemicsconsortium.org/people/). 
 
 
-[*RESEARCH    |*](http://zulmamcucunuba.org/research.html) [*PUBLICATIONS    |*](http://zulmamcucunuba.org/research.html) [*TALKS    |*](http://zulmamcucunuba.org/talks.html) 
+[*RESEARCH    |*](http://zulmamcucunuba.org/research.html) [*PUBLICATIONS    |*](http://zulmamcucunuba.org/publications.html) [*TALKS    |*](http://zulmamcucunuba.org/talks.html) 
 [*TEACHING    |*](http://zulmamcucunuba.org/teaching.html) 
 [*MEDIA    |*](http://zulmamcucunuba.org/outreach.html) 
 
