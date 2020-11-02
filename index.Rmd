@@ -8,17 +8,20 @@ pagetitle: "Zulma M. Cucunubá MD, PhD"
 
 <img src="images/ZCucunuba.jpeg" style="width:60%; border:0px solid">
 
+<br />
 
 #### *Profile ane Education*
 
 I am an Infectious Disease Epidemiologist with more than 10 years of experience with a particular focus in Latin America.
 
 My background includes an MD at UPTC in Colombia, a Masters in Public Health at Universidad Nacional de Colombia and a PhD on Infectious Disease Epidemiology at Imperial College London. I did a postdoc with the Vaccine Impact Modelling Consortium in the UK. In 2017 I was awarded the MRC Rutherford Fund Fellowship.
+
 <br />
 
 #### _Academic Positions_
 
 I hold a Research Fellow position in the [MRC Centre for Infectious Disease Epidemiology](https://www.imperial.ac.uk/people/zulma.cucunuba)  at Imperial College London in the UK. I also hold an academic appointment as Assistant Professor of Infectious Disease Epidemiology at Pontificia Universidad Javeriana in Colombia  [Department of Clinical Epidemiology.
+
 <br />
 
 #### *Research Focus*
@@ -34,18 +37,23 @@ I am an avid R enthusiast for epidemic analytics and a member of the [R Epidemic
 <br />
 <br />
 
-[*RESEARCH & PUBLICATIONS    |*](http://zulmamcucunuba.org/res_publications.html) 
+[RESEARCH & PUBLICATIONS](http://zulmamcucunuba.org/res_publications.html) 
 <br />
 
 <br />
-[*ACADEMIC TALKS    |*](http://zulmamcucunuba.org/talks.html) 
+[ACADEMIC TALKS](http://zulmamcucunuba.org/talks.html) 
 <br />
 
 <br />
-[*TEACHING MATERIALS    |*](http://zulmamcucunuba.org/teaching.html) 
+[TEACHING MATERIALS](http://zulmamcucunuba.org/teaching.html) 
 <br />
 
 <br />
-[*MEDIA APPEARANCES|*](http://zulmamcucunuba.org/media.html) 
+[MEDIA APPEARANCES](http://zulmamcucunuba.org/media.html) 
+<br />
+
+
+<br />
+[CONTACT ME](http://zulmamcucunuba.org/contact.html) 
 <br />
 

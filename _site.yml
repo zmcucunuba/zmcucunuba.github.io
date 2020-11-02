@@ -1,7 +1,7 @@
 name: "Zulma M. Cucunubá MD., PhD."
 output_dir: "."
 navbar:
-  title: "Zulma M. Cucunubá MD., PhD"
+  title: "Zulma M. Cucunubá MD, PhD"
   left:
     - text: "Home"
       href: index.html
