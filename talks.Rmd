@@ -8,6 +8,8 @@ pagetitle: "Zulma M. Cucunubá MD, PhD"
 
 
 # Academic Talks
+<br />
+<img src="images/talks.jpg" style="width:100%; border:0px solid">
 
 <br />
 <br />
