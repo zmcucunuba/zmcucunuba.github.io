@@ -5,13 +5,13 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Research \n (Investigación)"
+    - text: "Research"
       href: research.html
-    - text: "Talks \n (Conferencias)"
+    - text: "Talks"
       href: talks.html
-    - text: "Teaching \n (Enseñanza)"
+    - text: "Teaching"
       href: teaching.html
-    - text: "Media \n (Medios)"
+    - text: "Media"
       href: outreach.html
 
   right:
@@ -30,5 +30,5 @@ navbar:
 output:
   html_document:
     theme: readable
-    hihghlight: textmate
+    hihghlight: tango
 css: 'styles.css'
