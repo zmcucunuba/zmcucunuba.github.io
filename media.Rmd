@@ -11,7 +11,7 @@ pagetitle: "Zulma M. Cucunubá MD, PhD"
 # Media Appearances
 
 <br />
-<img src="images/media.jpg" style="width:100%; border:0px solid">
+<img src="images/media.png" style="width:70%; border:0px solid">
 
 <br />
 <br />
@@ -46,6 +46,9 @@ Feb 2020 ["La pregunta es si estamos preparados para la llegada del virus": Zulm
 
 
 2020 - [Medir y Gestionar la pandemia a largo plazo con Jorge Galindo - ESADE ](https://www.youtube.com/watch?v=CKddpHgf5fU&feature=emb_logo&ab_channel=Esade) (Spanish)
+
+
+2020 - [Sígale la pista a estos hilos de tecnología,  innovación y ciencia](https://impactotic.co/sigales-la-pita-a-estos-hilos-recomendados-de-tecnologia-innovacion-y-ciencia/)
 
 
 
