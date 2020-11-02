@@ -6,11 +6,8 @@
 
 <br />
 
-# Contact me
 
-
-
-<img src="images/contact.jpg" style="width:70%; margin-right: 50px">
+<img src="images/contact.jpg" style="width:50%; margin-right: 50px" align="left">
 
 <br />
 
