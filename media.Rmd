@@ -17,6 +17,15 @@ pagetitle: "Zulma M. Cucunubá MD, PhD"
 <br />
 
 
+## Short Videos
+
+Nov 2020 [Modelos matemáticos contra enfermedades del presente y el futuro ](https://www.youtube.com/watch?v=FsYBeGKjM28&t=3s&ab_channel=scidevnet) (Spanish) 
+
+
+
+<br />
+
+
 ## Newspaper Articles
 
 Jan 2021. [Una Nueva Era de Vacunas ¿Por qué es posible desarrollar y evaluar vacunas más rápido que nunca? | EL ESPECTADOR ](https://www.elespectador.com/noticias/salud/coronavirus-por-que-es-posible-desarrollar-y-evaluar-vacunas-mas-rapido-que-nunca/) (Spanish) 
@@ -54,6 +63,8 @@ May 2020- [Semana En Vivo El reto: proteger la vida o salvar la economía del Co
 
 ## Interviews
 
+
+
 Nov 2020 [¿Las Las matemáticas pueden decirnos cómo contener una pandemia? por Catalina Lobo-Guerrero. Salud Con Lupa ](https://saludconlupa.com/entrevistas/pueden-decirnos-las-matematicas-como-contener-una-pandemia/)
 
 
@@ -67,12 +78,20 @@ Feb 2020 ["La pregunta es si estamos preparados para la llegada del virus": Zulm
 
 <br />
 
+
 ## Outreach 
 
-2020 - [Viaje a la cabeza de una epidemióloga Fundación Gabo](https://www.youtube.com/watch?v=QtVXu6GrOEk&ab_channel=Fundaci%C3%B3nGabo)(Spanish) 
+Dic 2020 [10 personajes TIC colombianos del año según el equipo de Impacto TIC ](https://impactotic.co/10-personajes-tic-2020/) (Spanish) 
+ 
+
+Dic 2020 [Epidemiología para periodistas II: aprendizajes para seguir cubriendo coronavirus ](https://www.youtube.com/watch?v=DdPCuAbkkDQ&ab_channel=Fundaci%C3%B3nGabo) (Spanish) 
 
 
-2020 - [Medir y Gestionar la pandemia a largo plazo con Jorge Galindo - ESADE ](https://www.youtube.com/watch?v=CKddpHgf5fU&feature=emb_logo&ab_channel=Esade) (Spanish)
+Oct 2020 - [Medir y Gestionar la pandemia a largo plazo con Jorge Galindo - ESADE ](https://www.youtube.com/watch?v=CKddpHgf5fU&feature=emb_logo&ab_channel=Esade) (Spanish)
+
+
+May 2020 - [Viaje a la cabeza de una epidemióloga Fundación Gabo](https://www.youtube.com/watch?v=QtVXu6GrOEk&ab_channel=Fundaci%C3%B3nGabo) (Spanish) 
+
 
 
 2020 - [Sígale la pista a estos hilos de tecnología,  innovación y ciencia](https://impactotic.co/sigales-la-pita-a-estos-hilos-recomendados-de-tecnologia-innovacion-y-ciencia/)
