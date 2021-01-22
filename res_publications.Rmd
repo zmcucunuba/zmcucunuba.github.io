@@ -35,6 +35,9 @@ pagetitle: "Zulma M. Cucunubá MD, PhD"
 
 [ORCID](https://orcid.org/0000-0002-8165-3198)
 
+
+Eggo R, Dawa J, Kucharski Aj & **Cucunubá ZM**.  The importance of local context in COVID-19 models.N at Comput Sci 1, 6–8 (2021). https://doi.org/10.1038/s43588-020-00014-7
+
 Biggerstaff M, Cowling BJ, **Cucunubá ZM**, Dinh L, Ferguson NM, et al., for the WHO COVID-19 Modelling Parameters Group. Early insights from statistical and mathematical modeling of key epidemiologic parameters of COVID-19. Emerg Infect Dis. 2020 https://doi.org/10.3201/eid2611.201074 
 
 Verity R, Okell LC, Dorigatti I, **Cucunubá ZM**, (…) Donnelly CA, Ghani AC, Ferguson NM. Estimates of the severity of coronavirus disease 209: a model-based analysis. Lancet Infect Dis. 2020 30:S473-3099(20)30243-7.
