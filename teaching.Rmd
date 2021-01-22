@@ -16,7 +16,7 @@ pagetitle: "Zulma M. Cucunubá MD, PhD"
 <br />
 
 
-# Teaching Materials
+# TEACHING
 
 <!-- <img src="images/acad_materials.jpg" style="width:100%; border:0px solid"> -->
 
@@ -67,7 +67,7 @@ Feb 2018. Coordinated International Modelling Chagas Workshop (30 participants f
 <br />
 
 <br />
-[TEACHING MATERIALS](http://zulmamcucunuba.org/teaching.html) 
+[TEACHING](http://zulmamcucunuba.org/teaching.html) 
 <br />
 
 <br />

@@ -38,13 +38,15 @@ pagetitle: "Zulma M. Cucunubá MD, PhD"
 
 Eggo R, Dawa J, Kucharski Aj & **Cucunubá ZM**.  The importance of local context in COVID-19 models.N at Comput Sci 1, 6–8 (2021). https://doi.org/10.1038/s43588-020-00014-7
 
+**Cucunubá ZM** . Latin American scientific research prorities for COVID-19 prevention and control Biomedica. 2020 Oct;40(Supl. 2):9-13
+
 Biggerstaff M, Cowling BJ, **Cucunubá ZM**, Dinh L, Ferguson NM, et al., for the WHO COVID-19 Modelling Parameters Group. Early insights from statistical and mathematical modeling of key epidemiologic parameters of COVID-19. Emerg Infect Dis. 2020 https://doi.org/10.3201/eid2611.201074 
 
 Verity R, Okell LC, Dorigatti I, **Cucunubá ZM**, (…) Donnelly CA, Ghani AC, Ferguson NM. Estimates of the severity of coronavirus disease 209: a model-based analysis. Lancet Infect Dis. 2020 30:S473-3099(20)30243-7.
 
 Walker PGT, Whittaker C, Watson OJ, **Cucunubá ZM**, (…), Ferguson NM, Ghani AC. The impact of COVID- 19 and strategies for mitigation and suppression in low- and middle-income countries. Science. 2020;369(6502):413- 422
 
-Laiton-Donato, Villabona-Arenas CJ (..), **Cucunubá ZM**. Genomic epidemiology of SARS-CoV-2 in Colombia. medRxiv 2020.06.26.20135715.
+Laiton-Donato, Villabona-Arenas CJ (..), **Cucunubá ZM**. Genomic epidemiology of SARS-CoV-2 in Colombia. Emerging Infectious Diseases. 2020;26(12):2854-2862. doi:10.3201/eid2612.202969.
 
 Ainslie KEC, Walters CE, Fu H, Bhatia (…) **Cucunubá ZM**. et al. Evidence of initial success for China exiting COVID-9 social distancing policy after achieving containment. Wellcome Open Res 2020, 5:8
 
@@ -81,7 +83,7 @@ Ferguson NM, **Cucunubá ZM**, Dorigati I, et al. Countering the Zika epidemic i
 <br />
 
 <br />
-[TEACHING MATERIALS](http://zulmamcucunuba.org/teaching.html) 
+[TEACHING](http://zulmamcucunuba.org/teaching.html) 
 <br />
 
 <br />
