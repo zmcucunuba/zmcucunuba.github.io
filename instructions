@@ -1,0 +1,6 @@
+Instructions
+
+After changes I have to use
+rmarkdown::render_site(encoding = "UTF-8")
+
+then commit and push 
